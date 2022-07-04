@@ -12,12 +12,13 @@ color: rgb(245, 65, 0);
 }
 section{
     display: flex;
+    margin-bottom: 40px;
 }
-.left-side{
-    width:50%;
+.upper-part{
+    width:40%;
     padding-left: 5%;
 }
-.left-side img{
+.upper-part img{
     width:90%
     }
     .hireme-button{
@@ -34,4 +35,16 @@ section{
 
         
     }
+    .middle-banner{
+        width: 50%;
+    }
+.middle-part{
+    background-image: url()
+}
+.middle-part{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right 110px;
    
+    
+}
